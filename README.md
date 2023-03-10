@@ -15,7 +15,7 @@ API接口调用平台，帮助企业、个人统一开放接口，减少沟通�
 - 流量保护
 
 架构图：
-
+![image](https://github.com/lulu-hu/luluapi-backend/blob/master/doc/image.png)
 
 技术选型：
 
